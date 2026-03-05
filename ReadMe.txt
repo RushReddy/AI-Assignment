@@ -166,6 +166,4 @@ Compiler: GCC / CodeBlocks
 Version Control: Git
 Repository Hosting: GitHub
 
----
 
-If you want, I can also show you **one small trick that makes your GitHub README look much more professional than your classmates' repositories**.
